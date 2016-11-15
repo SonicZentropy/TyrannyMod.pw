@@ -1,5 +1,7 @@
 # TyrannyMod.pw
-Modding framework for Tyranny based on the excellent Patchwork framework (https://github.com/GregRos/Patchwork) and Pillars Of Eternity's IEMod.pw (https://github.com/IEMod/IEMod.pw)
+Modding framework for Tyranny based on the excellent Patchwork framework (https://github.com/GregRos/Patchwork) and Pillars Of Eternity's IEMod.pw (https://github.com/IEMod/IEMod.pw)  
+
+This framework allows you to make changes to almost the entire gamut of Tyranny's codebase.  Much like PoE was, Tyranny's code appears to be pretty much straight non-obfuscated Unity code, so extremely easy and fun to change to your liking.
 
 Most instructions can be followed directly from Patchwork.  This repo includes all of the relevant modifications for Tyranny already in place.  It also has a bugfix in the Patchwork framework that crashed Tyranny.  Once Patchwork merges my pull req, this repo can switch to using it as a submodule instead of duplicating it.
 

@@ -1,5 +1,5 @@
 # TyrannyMod.pw
-Modding framework for Tyranny based on the excellent Patchwork framework (https://github.com/GregRos/Patchwork) and Pillars Of Eternity's IEMod.pw (https://github.com/IEMod/IEMod.pw)  
+Modding framework for Tyranny (NON DLC)
 
 This framework allows you to make changes to almost the entire gamut of Tyranny's codebase.  Much like PoE was, Tyranny's code appears to be pretty much straight non-obfuscated Unity code, so extremely easy and fun to change to your liking.
 
